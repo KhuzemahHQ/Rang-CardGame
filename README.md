@@ -4,19 +4,26 @@ You must have node to be able to play the game.
 To run the game, via command line:-
 
 Open two terminals in the game folder.
+
 First terminal:
 cd frontend
+
 npm i
+
 npm start
 
 Second terminal:
+
 cd backend
+
 npm i
+
 node server.ts
+
 
 You can then play as different players in 4 different tabs.
 
-s
+
 Rules and flow for RANG: 
 We will be implementing the basic (vanilla) version of Rang that abides by the following
 rules.
